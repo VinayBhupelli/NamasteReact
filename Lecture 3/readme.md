@@ -1,5 +1,7 @@
 > JS is most loved language and if people hate it, its only because they dont understand JS
+
 > With smart students teacher becomes smarter
+
 > At the End of the Day Everything is JS
 
 # Restart Again
