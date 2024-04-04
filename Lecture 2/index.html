@@ -1,0 +1,33 @@
+<!-- html:5  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Namaste React</title>
+</head>
+<body>
+    <div id="root">
+        <h1>Hello World!</h1>
+        <script>
+            const heading = document.createElement("h1");
+            heading.innerHTML = "Namaste React";
+            const root = document.getElementById("root");
+            root.appendChild(heading);
+        </script>
+        <div id="newroot">
+            <!-- this below code gets replaced by render code -->
+            <h1>Vinay is here!</h1>
+        </div>
+            
+       <!-- CDN links are removed after installing react,react-dom packages -->
+
+        <!-- React Code -->
+        <script type="module" src="./App.js"></script>
+    </div>
+</body>
+</html>
+<!-- Whats the difference between library & framework -->
+<!-- Whats the difference between development & production -->
+<!-- What is crossorigin -->
