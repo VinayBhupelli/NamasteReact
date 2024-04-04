@@ -1,0 +1,31 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is a course by Akshay Saini",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinayBhupelli/NamasteReact.git"
+  },
+  "author": "Vinay Bhupelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinayBhupelli/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/VinayBhupelli/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
