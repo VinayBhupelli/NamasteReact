@@ -1,10 +1,10 @@
 # Git pushing
-git init
-git branch -M main
-git add .
-git commit -m "message"
-git remote..............
-git push origin main
+- git init
+- git branch -M main
+- git add .
+- git commit -m "message"
+- git remote..............
+- git push origin main
 
 the previous lecture 1 code cant be used for production as it is not optimal
 like consolelogs and comments are not used in production
